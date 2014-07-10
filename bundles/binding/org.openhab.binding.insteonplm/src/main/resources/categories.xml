@@ -132,6 +132,15 @@ Example:
     </productKey>
   </subcategory>
   <subcategory>
+    <name>ToggleLinc Relay Switch</name>
+    <description>2466SW</description>
+    <subCat>0x1A</subCat>
+    <productKey name="F00.00.02">
+    	<feature name="switch">GenericSwitch</feature>
+    	<feature name="lastheardfrom">GenericLastTime</feature>
+    </productKey>
+  </subcategory>
+  <subcategory>
     <name>DIN Rail On/Off</name>
     <description>2453-222</description>
     <subCat>0x2e</subCat>
