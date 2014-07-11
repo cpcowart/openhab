@@ -113,6 +113,15 @@ Example:
   <name>Switch</name>
   <description>Switchable Lighting</description>
   <devCat>0x02</devCat>
+    <subcategory>
+    <name>OutletLinc Relay</name>
+    <description>2473SWH</description>
+    <subCat>0x08</subCat>
+    <productKey name="F00.00.02">
+    	<feature name="switch">GenericSwitch</feature>
+    	<feature name="lastheardfrom">GenericLastTime</feature>
+    </productKey>
+  </subcategory>
   <subcategory>
     <name>ICON Switch</name>
     <description>2876S</description>
